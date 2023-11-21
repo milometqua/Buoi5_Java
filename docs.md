@@ -101,6 +101,7 @@ Giả sử có 2 branchs cần merge như sau:
 ![markdown](https://images.viblo.asia/7cdf5cf3-9f16-43cc-8a75-14d6e6890f4d.png)
 
 Sử dụng merge sẽ có kết quả như thế này:
+
 ![markdown](https://images.viblo.asia/0410ca07-7d24-4dcf-bfdd-fa5dc6872a29.png)
 
 Merge sẽ giữ lại lịch sử commit theo dòng thời gian.
